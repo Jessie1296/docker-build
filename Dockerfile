@@ -1,4 +1,4 @@
 FROM busybox
-MAINTAINER Aurelio Amerio
+MAINTAINER JessieLee
 
-CMD ["echo", "Hello World! This is TeckyTok!"]
+CMD ["echo", "Heylo World!"]
