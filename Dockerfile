@@ -1,4 +1,4 @@
 FROM busybox
 MAINTAINER JessieLee
 
-CMD ["echo", "Heylo World!"]
+CMD ["echo", "Hello World!"]
